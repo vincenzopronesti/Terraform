@@ -5,7 +5,7 @@ Use Terraform to build a basic infrastructure on AWS. This infrastructure is mad
 - `security`: Security group to let incoming SSH connections in and allow outbound traffic.
 - `ssh`: SSH key pairs.
 
-##Set up and tear down the infrastructure
+## Set up and tear down the infrastructure
 -------------
 * Copy the access token and secret key to your aws credentials file (`~/.aws/credentials`).
 	```
